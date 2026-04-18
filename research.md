@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-We do **AI for Science** — building machine intelligence that works alongside human reasoning
+We do **AI for Science**, that is, building machine intelligence that works alongside human reasoning
 to accelerate scientific discovery. Our core conviction is that AI systems must go beyond
 pattern recognition: they need to reason, explain, and collaborate with humans in the pursuit
 of scientific knowledge. To that end, we develop methods that combine the scalability of modern
@@ -32,7 +32,8 @@ both data and prior knowledge are available.
 We work on foundational aspects of deep learning relevant to scientific applications:
 sequence models and transformers for genomic data, model calibration and uncertainty
 quantification, knowledge distillation, and explainability.
-A recurring theme is **reliability** — predictions in science must come with well-calibrated
+A recurring theme is **reliability** which enforces that predictions in science must come 
+with well-calibrated
 confidence and interpretable justification.
 
 We also study large language models (LLMs) for scientific tasks, including using LLMs with
@@ -45,13 +46,13 @@ regulatory and codon-usage patterns across eukaryotes.
 Biology is a natural domain for AI for Science: the data are vast, the problems are hard,
 and mechanistic interpretability is essential. We work on:
 
-- **Gene regulation** &mdash; predicting gene expression from DNA sequences to understand
+- **Gene regulation**: predicting gene expression from DNA sequences to understand
   cis-regulatory logic (e.g. Camformer, *Bioinformatics Advances* 2025).
-- **Genomic foundation models** &mdash; learning representations of codon usage and transcript
+- **Genomic foundation models**: learning representations of codon usage and transcript
   stability from large-scale eukaryotic genomic datasets.
-- **Multi-omics cancer analysis** &mdash; Boolean and ML methods for cancer biomarker discovery,
+- **Multi-omics cancer analysis**: Boolean and ML methods for cancer biomarker discovery,
   macrophage polarisation, and single-cell transcriptomics.
-- **Drug discovery** &mdash; neurosymbolic models for novel lead generation, molecular property
+- **Drug discovery**: neurosymbolic models for novel lead generation, molecular property
   prediction via GNNs, and explainable compound screening.
 
 
@@ -59,14 +60,14 @@ and mechanistic interpretability is essential. We work on:
 
 Correlation-based models are brittle: they fail under distribution shift and cannot answer
 interventional or counterfactual questions that science demands.
-We are interested in **causal machine learning** — methods that go beyond associational
+We are interested in **causal machine learning**, specifically, in methods that go beyond associational
 learning to discover and exploit causal structure in data.
 
 This includes learning causal graphs from observational and interventional data, integrating
 causal priors with deep learning, and using causal reasoning to improve robustness and
 interpretability of models in biological and clinical settings.
 A longer-term goal is to build AI systems that can reason about *why* a biological phenomenon
-occurs, not just *that* it occurs — a prerequisite for trustworthy AI in science.
+occurs, not just *that* it occurs, which is a prerequisite for trustworthy AI in science.
 
 
 Most of our code is publicly available at the

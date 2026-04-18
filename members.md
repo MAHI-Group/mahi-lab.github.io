@@ -45,7 +45,7 @@ permalink: /members/
 *None yet. [Opportunities available.](/opportunities)*
 {% endif %}
 
-## Project / Thesis Students
+## Project / Thesis / Visiting Students
 
 {% if site.data.members.project_students.size > 0 %}
 {% for member in site.data.members.project_students %}

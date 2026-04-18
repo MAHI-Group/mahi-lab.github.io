@@ -19,7 +19,7 @@ of interest with a paragraph on *the most embarassing research mistake so far in
 **Self-funded / Fellowship holders**
 
 We welcome PhD applicants who have secured their own funding through fellowships such as
-[PMRF](https://www.pmrf.in/), [CSIR-UGC NET](https://www.csirugcnet.in/), or equivalent.
+[PMRF](https://www.pmrf.in/), [CSIR-UGC NET](https://csirnet.nta.nic.in/), or equivalent.
 If you hold (or are likely to receive) such a fellowship and your interests align with ours,
 please get in touch.
 
@@ -27,23 +27,24 @@ please get in touch.
 
 BITS Pilani offers PhD positions with Teaching/Research Assistantships. Candidates who clear
 the BITS PhD entrance process can join the lab. See the
-[BITS PhD admissions page](https://www.bits-pilani.ac.in/phd-programmes/) for eligibility
+[BITS PhD admissions page](https://admissions.bits-pilani.ac.in/PhD/phd.html) for eligibility
 and schedule.
 
 
 ### Postdoctoral Researchers
 
 We are happy to host postdocs with their own funding via schemes such as
-[SERB NPDF](https://serb.gov.in/page/national_post_doctoral_fellowship),
-[INSA](https://www.insa.nic.in/) fellowships, Marie Curie, Newton fellowships, or equivalent.
+[ANRF N-PDF](https://anrfonline.in/ANRF/npdf),
+[INSA](https://insaindia.res.in/) fellowships, Marie Curie, Newton fellowships, or equivalent.
 We do not currently have funding for postdocs independently.
 
 
-### Master's Thesis Students (BITS)
+### Master's Thesis Students (BITS or outside)
 
 M.E. dissertation students in Computer Science or related disciplines at BITS Pilani are
 welcome to approach us with a research proposal. Typical projects are in neurosymbolic AI,
-GNNs, or AI for biology.
+GNNs, or AI for biology. I am also open to (co-)supervising thesis from outside BITS campuses,
+if the student is interested in pursuing a PhD with our group.
 
 
 ### Project / Internship Students
@@ -51,6 +52,7 @@ GNNs, or AI for biology.
 **BITS Students** — Study-Oriented Projects (SOP), Practice School, and summer research
 internships are available.
 See the [current summer 2026 application form](https://docs.google.com/forms/d/e/1FAIpQLSeA6SSZYMMEDYx2eTDa1xZHh4Zr10T0Lczoe373UsIGqSSEDQ/viewform?usp=header).
+Keep watching for such Opportunities.
 
 **External Students** — Short-term visits (2–3 months) may be arranged for students with a
 strong ML/AI background and a specific project interest. We do not have funding for external
