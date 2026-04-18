@@ -1,35 +1,97 @@
-/* Minor overrides on minima classic skin for MAHI Lab */
-
-.site-header {
-  border-top: 4px solid #1a3a5c;
+/* ── CSS variables: light (default) ── */
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #555555;
+  --border: #e8e8e8;
+  --header-bg: #ffffff;
+  --header-border: #1a3a5c;
+  --link: #1a3a5c;
+  --code-bg: #f4f4f4;
 }
 
-.site-title {
-  font-weight: 700;
-  letter-spacing: -0.01em;
+/* ── dark mode overrides ── */
+[data-theme="dark"] {
+  --bg: #1a1a2e;
+  --text: #e0e0e0;
+  --muted: #aaaaaa;
+  --border: #2e2e4e;
+  --header-bg: #16213e;
+  --header-border: #4a90d9;
+  --link: #7ab8f5;
+  --code-bg: #2a2a4a;
+}
+
+/* Apply variables */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.2s, color 0.2s;
+}
+
+a { color: var(--link); }
+
+.site-header {
+  background-color: var(--header-bg);
+  border-top: 4px solid var(--header-border);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-title, .site-title:visited {
+  color: var(--text);
 }
 
 .site-nav .page-link {
+  color: var(--text);
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
-/* tighten post-list used on home page */
-.post-list > li {
-  border-bottom: 1px solid #e8e8e8;
-  padding-bottom: 0.5rem;
-}
-
 .site-footer {
-  border-top: 2px solid #1a3a5c;
+  border-top: 2px solid var(--header-border);
+  background-color: var(--header-bg);
+  color: var(--muted);
 }
 
-/* news list on home page */
-ul li {
-  margin-bottom: 0.4rem;
+.footer-col-wrapper { color: var(--muted); }
+
+code, pre {
+  background-color: var(--code-bg);
+  color: var(--text);
 }
 
-h2, h3 {
-  color: #1a3a5c;
+h2, h3 { color: var(--link); }
+
+hr { border-color: var(--border); }
+
+/* ── dark mode toggle button ── */
+#theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  margin-left: 0.8rem;
+  vertical-align: middle;
+  transition: background 0.2s;
+}
+#theme-toggle:hover { background: var(--border); }
+
+/* ── mobile: logo header ── */
+.lab-header {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 480px) {
+  .lab-header { flex-direction: column; align-items: flex-start; gap: 0.8rem; }
+  .lab-header img { height: 64px !important; }
+  .site-nav { font-size: 0.82rem; }
 }

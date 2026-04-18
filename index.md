@@ -3,14 +3,14 @@ layout: home
 title: ""
 ---
 
-<div style="display:flex; align-items:center; gap:1.4rem; margin-bottom:2rem; margin-top:0.5rem;">
-  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:80px; width:auto;" />
+<div class="lab-header">
+  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:96px; width:auto;" />
   <div>
     <h1 style="margin:0; font-size:2rem; line-height:1.2;">MAHI Lab</h1>
-    <p style="margin:0.2rem 0 0; color:#444; font-size:1rem; font-weight:500;">
+    <p style="margin:0.2rem 0 0; font-size:1rem; font-weight:500;">
       Machine-and-Human Intelligence Lab
     </p>
-    <p style="margin:0.2rem 0 0; color:#777; font-size:0.88rem;">
+    <p style="margin:0.2rem 0 0; font-size:0.88rem; color:var(--muted);">
       BITS Pilani, K K Birla Goa Campus, India
     </p>
   </div>
@@ -30,16 +30,16 @@ of scientific knowledge.
 
 ## Research Themes
 
-**Neurosymbolic AI** &mdash; We integrate deep neural networks with symbolic methods such as
+**Neurosymbolic AI**: We integrate deep neural networks with symbolic methods such as
 Inductive Logic Programming to build models that are accurate, interpretable, and data-efficient.
 
-**Deep Learning** &mdash; We work on sequence models, transformers, LLMs, uncertainty
+**Deep Learning**: We work on sequence models, transformers, LLMs, uncertainty
 quantification, and explainability, with a focus on reliability for scientific applications.
 
-**Computational Biology and Drug Discovery** &mdash; We apply AI to gene regulation, genomic
+**Computational Biology and Drug Discovery**: We apply AI to gene regulation, genomic
 foundation models, multi-omics cancer analysis, and early-stage drug design.
 
-**Causality** &mdash; We develop causal machine learning methods that go beyond correlation
+**Causality**: We develop causal machine learning methods that go beyond correlation
 to discover causal structure in biological and clinical data.
 
 [Read more about our research &rarr;](/research)
