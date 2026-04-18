@@ -16,7 +16,6 @@ title: ""
   </div>
 </div>
 
----
 
 ## Who we are and What we do
 
@@ -25,7 +24,6 @@ alongside human reasoning to accelerate scientific discovery. Our core convictio
 systems must go beyond pattern recognition: they need to reason, explain, and collaborate with
 humans in the pursuit of scientific knowledge.
 
----
 
 ## Research Themes
 
@@ -43,7 +41,6 @@ to discover causal structure in biological and clinical data.
 
 [Read more about our research &rarr;](/research)
 
----
 
 ## News
 

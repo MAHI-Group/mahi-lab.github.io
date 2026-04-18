@@ -24,7 +24,6 @@ permalink: /members/
 </div>
 {% endfor %}
 
----
 
 ## PhD Students
 

@@ -10,7 +10,6 @@ For the PI's complete publication record (including work prior to MAHI Lab), see
 - [Google Scholar](https://scholar.google.com/citations?user=1ZcwKZEAAAAJ)
 - [tirtharajdash.github.io/publications](https://tirtharajdash.github.io/publications/)
 
----
 
 <!--
 HOW TO ADD A PUBLICATION:

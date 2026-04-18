@@ -11,7 +11,6 @@ of scientific knowledge. To that end, we develop methods that combine the scalab
 deep learning with the interpretability and structure of symbolic reasoning, and apply them to
 hard open problems in computational biology and drug discovery.
 
----
 
 ### Neurosymbolic AI
 
@@ -27,7 +26,6 @@ neural networks (BotGNN, VEGNN), and methods for extracting interpretable rules 
 networks. Applications span drug discovery, genomics, and other scientific domains where
 both data and prior knowledge are available.
 
----
 
 ### Deep Learning
 
@@ -41,7 +39,6 @@ We also study large language models (LLMs) for scientific tasks, including using
 logical feedback for molecular design, and building genomic foundation models that capture
 regulatory and codon-usage patterns across eukaryotes.
 
----
 
 ### Computational Biology and Drug Discovery
 
@@ -57,7 +54,6 @@ and mechanistic interpretability is essential. We work on:
 - **Drug discovery** &mdash; neurosymbolic models for novel lead generation, molecular property
   prediction via GNNs, and explainable compound screening.
 
----
 
 ### Causality
 
@@ -72,7 +68,6 @@ interpretability of models in biological and clinical settings.
 A longer-term goal is to build AI systems that can reason about *why* a biological phenomenon
 occurs, not just *that* it occurs — a prerequisite for trustworthy AI in science.
 
----
 
 Most of our code is publicly available at the
 [MAHI-Group GitHub organisation](https://github.com/MAHI-Group)

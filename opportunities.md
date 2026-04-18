@@ -13,7 +13,6 @@ biology are valued. Email [tirtharaj@goa.bits-pilani.ac.in](mailto:tirtharaj@goa
 with subject `[MAHI-Lab Inquiry] <Position Type>`, attaching your CV and a short statement
 of interest with a paragraph on *the most embarassing research mistake so far in your life*.
 
----
 
 ### PhD Students
 
@@ -31,7 +30,6 @@ the BITS PhD entrance process can join the lab. See the
 [BITS PhD admissions page](https://www.bits-pilani.ac.in/phd-programmes/) for eligibility
 and schedule.
 
----
 
 ### Postdoctoral Researchers
 
@@ -40,7 +38,6 @@ We are happy to host postdocs with their own funding via schemes such as
 [INSA](https://www.insa.nic.in/) fellowships, Marie Curie, Newton fellowships, or equivalent.
 We do not currently have funding for postdocs independently.
 
----
 
 ### Master's Thesis Students (BITS)
 
@@ -48,7 +45,6 @@ M.E. dissertation students in Computer Science or related disciplines at BITS Pi
 welcome to approach us with a research proposal. Typical projects are in neurosymbolic AI,
 GNNs, or AI for biology.
 
----
 
 ### Project / Internship Students
 
@@ -60,7 +56,6 @@ See the [current summer 2026 application form](https://docs.google.com/forms/d/e
 strong ML/AI background and a specific project interest. We do not have funding for external
 interns; you must have your own support, including stay outside the institute campus.
 
----
 
 ### How to Apply
 
