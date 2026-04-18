@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="display:flex; flex-direction:row; align-items:center; gap:1.5rem; margin-bottom:2rem; margin-top:0.5rem; flex-wrap:wrap;">
-  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:100px; width:auto; flex-shrink:0;" />
+  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:96px; width:auto; flex-shrink:0;" />
   <div>
     <h1 style="margin:0; font-size:2rem; line-height:1.2;">MAHI Lab</h1>
     <p style="margin:0.2rem 0 0; font-size:1rem; font-weight:500;">
@@ -47,7 +47,7 @@ to discover causal structure in biological and clinical data.
 <ul>
 {% for item in site.data.news %}
   <li>
-    <strong>{{ item.date }}</strong> &mdash; {{ item.text }}
+    <strong>{{ item.date }}</strong>: {{ item.text }}
     {% if item.link %}<a href="{{ item.link }}">{{ item.link_text }}</a>{% endif %}
   </li>
 {% endfor %}
