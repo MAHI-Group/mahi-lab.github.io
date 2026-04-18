@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="display:flex; flex-direction:row; align-items:center; gap:1.5rem; margin-bottom:2rem; margin-top:0.5rem; flex-wrap:wrap;">
-  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:150px; width:auto; flex-shrink:0;" />
+  <img src="/assets/lab_logo_cropped.png" alt="MAHI Lab logo" style="height:100px; width:auto; flex-shrink:0;" />
   <div>
     <h1 style="margin:0; font-size:2rem; line-height:1.2;">MAHI Lab</h1>
     <p style="margin:0.2rem 0 0; font-size:1rem; font-weight:500;">
@@ -19,7 +19,7 @@ title: ""
 
 ## Who we are and What we do
 
-We are a research group. We do **AI for Science** — building machine intelligence that works
+We are a research group. We do **AI for Science**, focusing on building machine intelligence that works
 alongside human reasoning to accelerate scientific discovery. Our core conviction is that AI
 systems must go beyond pattern recognition: they need to reason, explain, and collaborate with
 humans in the pursuit of scientific knowledge.
