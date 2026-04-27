@@ -21,6 +21,7 @@ header_pages:
 # (add yours below if you want them)
 minima:
   social_links: []
+  skin: auto
 
 plugins:
   - jekyll-feed
